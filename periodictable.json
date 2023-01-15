@@ -1,0 +1,181 @@
+[
+    {
+    "name": "Hydrogen",
+    "symbol": "H",
+    "korean": "수소",
+    "number": 1,
+    "period": 1,
+    "group": 1
+    },
+
+    {
+    "name": "Helium",
+    "symbol": "He",
+    "korean": "헬륨",
+    "number": 2,
+    "period": 1,
+    "group": 18
+    },
+
+    {
+    "name": "Lithium",
+    "symbol": "Li",
+    "korean": "리튬",
+    "number": 3,
+    "period": 2,
+    "group": 1
+    },
+
+    {
+    "name": "Beryllium",
+    "symbol": "Be",
+    "korean": "베릴륨",
+    "number": 4,
+    "period": 2,
+    "group": 2
+    },
+
+    {
+    "name": "Boron",
+    "symbol": "B",
+    "korean": "붕소",
+    "number": 5,
+    "period": 2,
+    "group": 13
+    },
+
+    {
+    "name": "Carbon",
+    "symbol": "C",
+    "korean": "탄소",
+    "number": 6,
+    "period": 2,
+    "group": 14
+    },
+
+    {
+    "name": "Nitrogen",
+    "symbol": "N",
+    "korean": "질소",
+    "number": 7,
+    "period": 2,
+    "group": 15
+    },
+
+    {
+    "name": "Oxygen",
+    "symbol": "O",
+    "korean": "산소",
+    "number": 8,
+    "period": 2,
+    "group": 16
+    },
+
+    {
+    "name":"Fluorine",
+    "symbol": "F",
+    "korean": "플루오린",
+    "number": 9,
+    "period": 2,
+    "group": 17
+    },
+
+    {
+    "name":"Neon",
+    "symbol": "Ne",
+    "korean": "네온",
+    "number": 10,
+    "period": 2,
+    "group": 18
+    },
+
+    {
+    "name": "Sodium",
+    "symbol": "Na",
+    "korean": "소듐/나트륨",
+    "number": 11,
+    "period": 3,
+    "group": 1
+    },
+
+    {
+    "name": "Magnesium",
+    "symbol": "Mg",
+    "korean": "마그네슘",
+    "number": 12,
+    "period": 3,
+    "group": 2
+    },
+
+    {
+    "name": "Aluminium",
+    "symbol": "Al",
+    "korean": "알루미늄",
+    "number": 13,
+    "period": 3,
+    "group": 13
+    },
+
+    {
+    "name": "Silicon",
+    "symbol": "Si",
+    "korean": "규소",
+    "number": 14,
+    "period": 3,
+    "group": 14
+    },
+
+    {
+    "name": "Phosphorus",
+    "symbol": "P",
+    "korean": "인",
+    "number": 15,
+    "period": 3,
+    "group": 15
+    },
+
+    {
+    "name": "Sulfur",
+    "symbol": "S",
+    "korean": "황",
+    "number": 16,
+    "period": 3,
+    "group": 16
+    },
+
+    {
+    "name": "Chlorine",
+    "symbol": "Cl",
+    "korean": "염소",
+    "number": 17,
+    "period": 3,
+    "group": 17
+    },
+
+    {
+    "name": "Argon",
+    "symbol": "Ar",
+    "korean": "아르곤",
+    "number": 18,
+    "period": 3,
+    "group": 18
+    },
+
+    {
+    "name": "Potassium",
+    "symbol": "K",
+    "korean": "포타슘/칼륨",
+    "number": 19,
+    "period": 4,
+    "group": 1
+    },
+
+    {
+    "name": "Calcium",
+    "symbol": "Ca",
+    "korean": "칼슘",
+    "number": 20,
+    "period": 4,
+    "group": 2
+    }
+]

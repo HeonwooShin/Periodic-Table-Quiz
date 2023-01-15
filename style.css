@@ -1,0 +1,84 @@
+* {
+    text-align: center;
+    font-family: "나눔 고딕", "맑은 고딕";
+    font-weight: lighter;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-family: "나눔 고딕", "맑은 고딕";
+    font-weight: lighter;
+    font-size: 5vw;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-weight: 900;
+}
+
+.entry {
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    background-color: aquamarine;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    transition: 0.2s ease;
+}
+
+.entry:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+    justify-self: center;
+}
+
+input {
+    margin: 10px;
+    font-size: 20px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+input[type=text] {
+    width: 250px;
+}
+
+input[type=submit] {
+    width: 80px;
+}
+
+#question {
+    margin: 20px;
+    border: 5px black solid;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
+
+.questionDetail {
+    font-size: 30px;
+}
