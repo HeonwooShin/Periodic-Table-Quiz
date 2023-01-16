@@ -9,22 +9,23 @@
 </head>
 <body>
     <img onclick="location.href='./quizz.html'" class="iconButton" id="previousButton" src="Images/previous page.svg" alt="돌아가기">
-    <p class="title" id="result">원자 번호 퀴즈</p>
+    <p class="title" id="result">주기 족 퀴즈</p>
     <div class="container">
         <div id="question">
-            <h3 class="questionDetail" id="period">주기:</h3><br/>
-            <h3 class="questionDetail" id="group">족:</h3><br/>
+            <h3 class="questionDetail" id="period">원소명:</h3><br/>
+            <h3 class="questionDetail" id="group">번호:</h3><br/>
             <h3 class="questionDetail" id="symbol">기호:</h3>
         </div>
             <form>
-                <input id="answer" type="text" placeholder="원자번호를 입력하세요" />
+                <input id="answer1" type="text" placeholder="주기를 입력하세요" />
+                <input id="answer2" type="text" placeholder="족을 입력하세요" />
                 <input id="submitButton" type="submit" value="확인"/>
             </form>
     </div>
 
-    <img onclick="location.href='./numberQuiz.html'" class="iconButton" id="nextButton" src="Images/next.svg" alt="다른 문제" />
+    <img onclick="location.href='./periodAndGroupQuiz.html'" class="iconButton" id="nextButton" src="Images/next.svg" alt="다른 문제" />
     <p>다른 문제</p>
     
-    <script type="module" src="numberQuiz.js"></script>
+    <script type="module" src="periodAndGroupQuiz.js"></script>
 </body>
 </html>
