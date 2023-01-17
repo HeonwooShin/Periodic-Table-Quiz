@@ -15,7 +15,7 @@ body {
     text-align: center;
     font-family: "나눔 고딕", "맑은 고딕";
     font-weight: lighter;
-    font-size: 5vw;
+    font-size: 70px;
 }
 
 .container {
@@ -74,8 +74,10 @@ input[type=submit] {
     height: 400px;
 }
 
+
 form {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
 }
 
@@ -103,4 +105,18 @@ form {
     width: 80px;
     height: 80px;
     margin: 10px;
+}
+
+@media only screen and (max-width: 450px) {
+    #question {
+        width: 300px;
+        height: 300px;
+    }
+        .questionDetail {
+        font-size: 25px;
+    }
+    
+    .title {
+        font-size: 30px;
+    }
 }
